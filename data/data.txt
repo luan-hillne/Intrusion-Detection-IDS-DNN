@@ -1,0 +1,3 @@
+Please fetch the data using the following path
+
+'https://www.kaggle.com/datasets/b20dcvt240lvnlun/iiot32?select=DNN-EdgeIIoT-dataset.csv'
